@@ -9,7 +9,7 @@ The MNIST database of handwritten digits has a training set of 60k examples, and
 ## Download
 zip file
 ```
-wget https://github.com/MinhasKamal/MLDatasets/releases/download/mnist/mnist.zip
+wget https://github.com/MinhasKamal/MLDatasets/releases/download/dataset/mnist.zip
 ```
 
 7z file
