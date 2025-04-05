@@ -1,8 +1,8 @@
 # Titanic
 
-The data set contains passenger information of the “unsinkable” RMS Titanic during her maiden voyage on April 15, 1912.
+The dataset contains passenger information from the "unsinkable" RMS Titanic during its maiden voyage on April 15, 1912.
 
-<img src="https://github.com/user-attachments/assets/c9060133-eeb8-465b-b0a4-096b26870be3" width="300">
+<img src="https://github.com/user-attachments/assets/c9060133-eeb8-465b-b0a4-096b26870be3" width="400">
 
 ## Download
 ```
