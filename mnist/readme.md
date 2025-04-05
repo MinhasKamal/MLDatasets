@@ -1,14 +1,20 @@
 # MNIST
 
-[home page](https://web.archive.org/web/20070714052731/http://yann.lecun.com/exdb/mnist/) [github page](https://github.com/cvdfoundation/mnist)
+[home page](https://web.archive.org/web/20070714052731/http://yann.lecun.com/exdb/mnist/) | [github page](https://github.com/cvdfoundation/mnist)
 
 The MNIST database of handwritten digits has a training set of 60k examples, and a test set of 10k examples.
 
 <img src="https://github.com/user-attachments/assets/5d252ace-a294-4d22-92ac-b094d25e554e" width="300">
 
 ## Download
+zip file
 ```
-wget 
+wget https://github.com/MinhasKamal/MLDatasets/releases/download/mnist/mnist.zip
+```
+
+7z file
+```
+wget https://github.com/MinhasKamal/MLDatasets/raw/refs/heads/main/mnist/mnist.7z
 ```
 
 ## Cite
