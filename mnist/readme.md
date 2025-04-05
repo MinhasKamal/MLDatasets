@@ -17,6 +17,8 @@ wget https://github.com/MinhasKamal/MLDatasets/releases/download/dataset/mnist.z
 wget https://github.com/MinhasKamal/MLDatasets/raw/refs/heads/main/mnist/mnist.7z
 ```
 
+[inspiration](https://github.com/myleott/mnist_png)
+
 ## Cite
 ```
 @article{lecun1998mnist,
