@@ -8,7 +8,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 ## Download
 ```
-wget https://github.com/MinhasKamal/MLDatasets/releases/download/mnist/mnist.zip
+wget https://github.com/MinhasKamal/MLDatasets/releases/download/dataset/cifar10.zip
 ```
 
 ## Cite
