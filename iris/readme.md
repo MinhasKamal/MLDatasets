@@ -2,8 +2,7 @@
 
 The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. [home page](https://archive.ics.uci.edu/dataset/53/iris)
 
-![image]()
-<img src="https://github.com/user-attachments/assets/b15a7e45-50e1-4a6c-81cc-733be6c5501e" width="200">
+<img src="https://github.com/user-attachments/assets/b15a7e45-50e1-4a6c-81cc-733be6c5501e" width="300">
 
 # Cite
 ```
