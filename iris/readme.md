@@ -8,7 +8,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ## Download
 ```
-! wget https://github.com/MinhasKamal/MLDatasets/raw/refs/heads/main/iris/iris.csv
+wget https://github.com/MinhasKamal/MLDatasets/raw/refs/heads/main/iris/iris.csv
 ```
 
 ## Cite
