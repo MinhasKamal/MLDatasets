@@ -11,6 +11,9 @@ The ImageNet10 dataset, a subset of original ImageNet dataset, consists of 13k c
 wget https://github.com/MinhasKamal/MLDatasets/releases/download/dataset/imagenet10.zip
 ```
 
+<img width="800" height=auto alt="image" src="https://github.com/user-attachments/assets/71527e52-436b-4863-ab8b-1d2bae3e74d3" />
+
+
 [inspiration](www.kaggle.com/datasets/liusha249/imagenet10)
 
 ## Cite
